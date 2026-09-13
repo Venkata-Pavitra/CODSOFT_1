@@ -1,10 +1,10 @@
-Title                     Genre
-Inception                  Sci-Fi Thriller
-Interstellar               Sci-Fi Adventure
-The Matrix                 Sci-Fi Action
-Avengers                   Action Adventure
-John Wick                  Action Thriller
-Titanic                    Romance Drama
-The Notebook               Romance Drama
-Harry Potter               Fantasy Adventure
-Lord of the Rings          Fantasy Adventure
+Title,Genre
+Inception,Sci-Fi Thriller
+Interstellar,Sci-Fi Adventure
+The Matrix,Sci-Fi Action
+Avengers,Action Adventure
+John Wick,Action Thriller
+Titanic,Romance Drama
+The Notebook,Romance Drama
+Harry Potter,Fantasy Adventure
+Lord of the Rings,Fantasy Adventure
